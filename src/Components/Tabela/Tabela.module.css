@@ -1,0 +1,22 @@
+table {
+    border-collapse: collapse;
+    width: 100%;
+    border-radius: 15px;
+}
+
+.tableHeader {
+    background-color: #cfcbcb;
+}
+
+th, td {
+    border: 1px solid #9a9797;
+    padding: 8px;
+}
+
+th {
+    text-align: left;
+}
+
+tr:hover {
+    background-color: #ddd;
+}
